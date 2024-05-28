@@ -1,0 +1,28 @@
+.news-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.article_news {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.article_news h3 {
+  color: #ff6600;
+}
+
+.article_news p {
+  color: #666;
+}

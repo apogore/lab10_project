@@ -1,0 +1,27 @@
+nav {
+  background-color: #77a6f7;
+  padding: 10px;
+  border-radius: 5px;
+  min-width: 200px;
+}
+li {
+  margin-bottom: 10px;
+  position: relative;
+  color: #fff;
+  font-weight: 600;
+}
+.li {
+  cursor: pointer;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+span {
+  cursor: pointer;
+}
+ul {
+  margin-top: 5px;
+  padding-left: 20px;
+}

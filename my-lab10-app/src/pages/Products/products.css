@@ -1,0 +1,36 @@
+.section-title {
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.products-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.products-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.products-table th,
+.products-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.products-table th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+  text-align: left;
+}
+
+.products-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.products-table tbody tr:hover {
+  background-color: #e0e0e0;
+}

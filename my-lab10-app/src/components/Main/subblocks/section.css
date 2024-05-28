@@ -1,0 +1,22 @@
+.section {
+    background-color: #d3e3fc;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1em;
+  }
+  
+  .banner {
+    max-height: 30vh;
+    max-width: 20vw;
+    margin: 10px;
+    overflow: hidden;
+
+  }
+  
+img {
+    width: 280%;
+    object-position: -10vw;
+    object-fit: contain;
+  }
+  
